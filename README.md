@@ -17,7 +17,7 @@ Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 2- Dirigete a la página web de la base de datos **[FungiDB](https://fungidb.org/fungidb/app)**  
 3- Crea una cuenta en Apollo  
 - Tools > Apollo > Go to Apollo > Register/suscribe  
-...En preferencias elige **FungiDB**  
+En preferencias elige **FungiDB**  
 
 4- Inicia sesión en Apollo web genome browser  
 5- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**  
