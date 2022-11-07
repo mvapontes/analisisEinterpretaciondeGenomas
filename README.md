@@ -19,8 +19,9 @@ Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 - Tools > Apollo > Go to Apollo > Register/suscribe  
 	- En preferencias elige **FungiDB**  
 
-4- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**  
-5- Para visualizar los archivo bw que te acabas de descargar:  
+4- Inicia sesión en Apollo web genome browser
+5- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**  
+6- Para visualizar los archivo bw que te acabas de descargar:  
 - File > Open track file or URL > Select files > seleccionar todos los archivos **bw** > open
 	
 
