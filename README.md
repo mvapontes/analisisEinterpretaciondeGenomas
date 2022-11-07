@@ -1,16 +1,14 @@
 # **Análisis e interpretación de genomas**
 
-## Universidad de Córdoba ![](figures/uco.jpg)
+### Universidad de Córdoba ![](figures/uco.jpg)
 
-## Máster Universitario en Biotecnología
+### Máster Universitario en Biotecnología
 
 
 ### **Profesorado**
-RUIZ ROLDÁN, MARÍA DEL CARMEN (Coordinador)
-
-DIE RAMÓN, JOSÉ VICENTE
-
-AGUILAR PONTES, MARÍA VICTORIA (b52agpom[at]uco.es)
+Ruiz Roldán, María del Carmen (Coordinadora)
+Die Ramón, José Vicente
+Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 
 ### Material práctico 
 
