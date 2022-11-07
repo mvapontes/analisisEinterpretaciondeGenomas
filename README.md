@@ -1,18 +1,20 @@
 # **Análisis e interpretación de genomas**
 
-### Universidad de Córdoba ![](figures/uco.jpg)
+## Universidad de Córdoba ![](figures/uco.jpg)
 
-### Máster Universitario en Biotecnología
+## Máster Universitario en Biotecnología
 
 
-#### **Profesorado**
+### **Profesorado**
 RUIZ ROLDÁN, MARÍA DEL CARMEN (Coordinador)
+
 DIE RAMÓN, JOSÉ VICENTE
+
 AGUILAR PONTES, MARÍA VICTORIA (b52agpom[at]uco.es)
 
-#### Material práctico 
+### Material práctico 
 
-#### **Instrucciones**
+### **Instrucciones**
 1- Descarga este repositorio
 
 2- Dirigete a la página web de la base de datos **Fungidb** usando [FungiDB](https://fungidb.org/fungidb/app). 
@@ -20,7 +22,7 @@ AGUILAR PONTES, MARÍA VICTORIA (b52agpom[at]uco.es)
 3- Crea una cuenta en Apollo 
 - Tools > Apollo > Go to Apollo > Register/suscribe
 
-- En preferencias elige **FungiDB**
+	- En preferencias elige **FungiDB**
 
 4- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**
 
