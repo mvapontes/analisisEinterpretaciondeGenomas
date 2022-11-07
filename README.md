@@ -6,25 +6,20 @@
 
 
 ### **Profesorado**
-Ruiz Roldán, María del Carmen (Coordinadora)
-Die Ramón, José Vicente
+Ruiz Roldán, María del Carmen (Coordinadora)  
+Die Ramón, José Vicente  
 Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 
 ### Material práctico 
 
 ### **Instrucciones**
-1- Descarga este repositorio
-
-2- Dirigete a la página web de la base de datos **Fungidb** usando [FungiDB](https://fungidb.org/fungidb/app). 
-
-3- Crea una cuenta en Apollo 
-- Tools > Apollo > Go to Apollo > Register/suscribe
-
-	- En preferencias elige **FungiDB**
-
-4- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**
-
-5- Para visualizar los archivo bw que te acabas de descargar:
-	-File > Open track file or URL > Select files > seleccionar todos los archivos **bw** > open
+1- Descarga este repositorio  
+2- Dirigete a la página web de la base de datos **Fungidb** usando [FungiDB](https://fungidb.org/fungidb/app).  
+3- Crea una cuenta en Apollo  
+- Tools > Apollo > Go to Apollo > Register/suscribe  
+	- En preferencias elige **FungiDB**  
+4- En organismos elige **Fusarium oxysporum f. sp. lycopersici 4287 [Aug 20, 2015]**  
+5- Para visualizar los archivo bw que te acabas de descargar:  
+-File > Open track file or URL > Select files > seleccionar todos los archivos **bw** > open
 	
 
