@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+    <img width="33%" src="figures/uco.jpg" alt="Logo Universidad de Córdoba">
+</p>
+
 ![alt text](figures/uco.jpg "Logo Universidad de Córdoba")
 
 # **Análisis e interpretación de genomas**
