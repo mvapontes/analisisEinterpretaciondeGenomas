@@ -9,9 +9,8 @@
 <h3 align="center">Departamento de Genética</h3>  
 <h3 align="center">Facultad de Ciencias</h3>  
 <h3 align="center">Universidad de Córdoba</h3>
-
-
-
+</br>
+</br>
 ### **Profesorado**
 Ruiz Roldán, María del Carmen (Coordinadora)  
 Die Ramón, José Vicente  
