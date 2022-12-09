@@ -5,9 +5,9 @@
 
 <h1 align="center">Análisis e interpretación de genomas 22/23</h1>
 
-### Máster Universitario en Biotecnología Celular y Genética  
+<h3 align="center">Máster Universitario en Biotecnología Celular y Genética</h3>
 <h3 align="center">Departamento de Genética</h3>
-### Facultad de Ciencias  
+<h3 align="center">Facultad de Ciencias</h3>
 
 ### **Profesorado**
 Ruiz Roldán, María del Carmen (Coordinadora)  
