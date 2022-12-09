@@ -6,7 +6,7 @@
 <center><h1>**Análisis e interpretación de genomas 22/23**</h1></center>  
 
 ### Máster Universitario en Biotecnología Celular y Genética  
-<center><h3>Departamento de Genética</h3></center>  
+<center><h3>Departamento de Genética</h3></center>
 ### Facultad de Ciencias  
 
 ### **Profesorado**
