@@ -8,8 +8,8 @@
 <h3 align="center">Máster Universitario en Biotecnología Celular y Genética</h3>  
 <h3 align="center">Departamento de Genética</h3>  
 <h3 align="center">Facultad de Ciencias</h3>  
-<br/>
-<br/>
+<h3 align="center">Universidad de Córdoba</h3>
+
 
 
 ### **Profesorado**
